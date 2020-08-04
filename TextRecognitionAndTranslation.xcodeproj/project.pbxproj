@@ -15,6 +15,7 @@
 		662E534E24D93F5700DADCBC /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 662E534C24D93F5700DADCBC /* LaunchScreen.storyboard */; };
 		662E535924D93F5700DADCBC /* TextRecognitionAndTranslationTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 662E535824D93F5700DADCBC /* TextRecognitionAndTranslationTests.swift */; };
 		662E536424D93F5700DADCBC /* TextRecognitionAndTranslationUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 662E536324D93F5700DADCBC /* TextRecognitionAndTranslationUITests.swift */; };
+		662E537224D943AF00DADCBC /* GoogleTranslate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 662E537124D943AF00DADCBC /* GoogleTranslate.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		662E535F24D93F5700DADCBC /* TextRecognitionAndTranslationUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TextRecognitionAndTranslationUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		662E536324D93F5700DADCBC /* TextRecognitionAndTranslationUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextRecognitionAndTranslationUITests.swift; sourceTree = "<group>"; };
 		662E536524D93F5700DADCBC /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		662E537124D943AF00DADCBC /* GoogleTranslate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GoogleTranslate.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -102,6 +104,7 @@
 				662E534124D93F5300DADCBC /* AppDelegate.swift */,
 				662E534324D93F5300DADCBC /* SceneDelegate.swift */,
 				662E534524D93F5300DADCBC /* ViewController.swift */,
+				662E537124D943AF00DADCBC /* GoogleTranslate.swift */,
 				662E534724D93F5300DADCBC /* Main.storyboard */,
 				662E534A24D93F5700DADCBC /* Assets.xcassets */,
 				662E534C24D93F5700DADCBC /* LaunchScreen.storyboard */,
@@ -262,6 +265,7 @@
 				662E534624D93F5300DADCBC /* ViewController.swift in Sources */,
 				662E534224D93F5300DADCBC /* AppDelegate.swift in Sources */,
 				662E534424D93F5300DADCBC /* SceneDelegate.swift in Sources */,
+				662E537224D943AF00DADCBC /* GoogleTranslate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
